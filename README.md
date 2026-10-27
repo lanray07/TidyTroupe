@@ -2,6 +2,8 @@
 
 Native, offline-first family chore planner for Fire OS and Android. Kotlin, Jetpack Compose, Material 3, Room, DataStore, Flow and WorkManager. The product name is provisional.
 
+Public pages: [Privacy policy](https://lanray07.github.io/TidyTroupe/privacy.html) · [Data deletion](https://lanray07.github.io/TidyTroupe/data-deletion.html) · [Support](https://lanray07.github.io/TidyTroupe/). Contact: banksmi@mail.com. The source is in `website/legal/` and deploys through `.github/workflows/legal-pages.yml`.
+
 **Status: development build, not ready for Appstore submission.** Source and debug builds are real. Live purchasing, Fire-device testing, reviewed worldwide translations and real store screenshot captures remain release gates. See [verification](docs/VERIFICATION.md) and [release checklist](docs/RELEASE.md).
 
 ## Run
@@ -59,4 +61,4 @@ Localisation validation deliberately fails until missing translations and review
 .\gradlew.bat connectedDebugAndroidTest -Pandroid.testInstrumentationRunnerArguments.tidyDestructiveUi=true
 ```
 
-Read [billing setup](docs/BILLING.md), [localisation workflow](tools/localisation/README.md), [privacy review draft](docs/PRIVACY-DRAFT.md), [support](docs/SUPPORT.md) and [website instructions](website/README.md). No production backend/site deployment or store submission has been made.
+Read [billing setup](docs/BILLING.md), [localisation workflow](tools/localisation/README.md), [privacy review draft](docs/PRIVACY-DRAFT.md), [support](docs/SUPPORT.md) and [website instructions](website/README.md). The privacy/deletion/support pages are live on GitHub Pages. The marketing website and production backend have not been deployed, and no store submission has been made.
