@@ -1,0 +1,741 @@
+{
+  "app_name": {
+    "type": "string",
+    "text": "TidyTroupe"
+  },
+  "tagline": {
+    "type": "string",
+    "text": "Team up. Tidy up. Celebrate together."
+  },
+  "today": {
+    "type": "string",
+    "text": "Today"
+  },
+  "chores": {
+    "type": "string",
+    "text": "Chores"
+  },
+  "routines": {
+    "type": "string",
+    "text": "Routines"
+  },
+  "rewards": {
+    "type": "string",
+    "text": "Rewards"
+  },
+  "family": {
+    "type": "string",
+    "text": "Family"
+  },
+  "progress": {
+    "type": "string",
+    "text": "Progress"
+  },
+  "settings": {
+    "type": "string",
+    "text": "Settings"
+  },
+  "greeting": {
+    "type": "string",
+    "text": "A little teamwork.\\nA happier home."
+  },
+  "dashboard_intro": {
+    "type": "string",
+    "text": "Small tasks, shared together. Here’s your household today."
+  },
+  "add_chore": {
+    "type": "string",
+    "text": "Add a chore"
+  },
+  "all_members": {
+    "type": "string",
+    "text": "Everyone"
+  },
+  "your_household": {
+    "type": "string",
+    "text": "Your household"
+  },
+  "todays_teamwork": {
+    "type": "string",
+    "text": "Today’s teamwork"
+  },
+  "view_all": {
+    "type": "string",
+    "text": "View all chores"
+  },
+  "empty_title": {
+    "type": "string",
+    "text": "A fresh start for your home"
+  },
+  "empty_body": {
+    "type": "string",
+    "text": "Add your first chore and give everyone a little part to play."
+  },
+  "save": {
+    "type": "string",
+    "text": "Save"
+  },
+  "cancel": {
+    "type": "string",
+    "text": "Cancel"
+  },
+  "done": {
+    "type": "string",
+    "text": "Done"
+  },
+  "undo": {
+    "type": "string",
+    "text": "Undo"
+  },
+  "delete": {
+    "type": "string",
+    "text": "Delete"
+  },
+  "edit": {
+    "type": "string",
+    "text": "Edit"
+  },
+  "duplicate": {
+    "type": "string",
+    "text": "Duplicate"
+  },
+  "pause": {
+    "type": "string",
+    "text": "Pause"
+  },
+  "resume": {
+    "type": "string",
+    "text": "Resume"
+  },
+  "archive": {
+    "type": "string",
+    "text": "Archive"
+  },
+  "pending": {
+    "type": "string",
+    "text": "Awaiting approval"
+  },
+  "approve": {
+    "type": "string",
+    "text": "Approve"
+  },
+  "title": {
+    "type": "string",
+    "text": "Chore name"
+  },
+  "notes": {
+    "type": "string",
+    "text": "Helpful notes"
+  },
+  "category": {
+    "type": "string",
+    "text": "Category"
+  },
+  "assigned_to": {
+    "type": "string",
+    "text": "Assigned to"
+  },
+  "points": {
+    "type": "string",
+    "text": "Stars"
+  },
+  "due_date": {
+    "type": "string",
+    "text": "First due date (YYYY-MM-DD)"
+  },
+  "repeat": {
+    "type": "string",
+    "text": "Repeat"
+  },
+  "require_approval": {
+    "type": "string",
+    "text": "Parent approval required"
+  },
+  "parent_area": {
+    "type": "string",
+    "text": "Parent area"
+  },
+  "unlock": {
+    "type": "string",
+    "text": "Unlock"
+  },
+  "pin": {
+    "type": "string",
+    "text": "Parent PIN"
+  },
+  "pin_help": {
+    "type": "string",
+    "text": "Choose a PIN with at least 6 digits. Keep it private from children."
+  },
+  "unlock_help": {
+    "type": "string",
+    "text": "Enter your parent PIN to manage the household."
+  },
+  "lock": {
+    "type": "string",
+    "text": "Lock parent area"
+  },
+  "pin_failed": {
+    "type": "string",
+    "text": "PIN incorrect or temporarily locked. Try again later."
+  },
+  "welcome": {
+    "type": "string",
+    "text": "A home that works together."
+  },
+  "welcome_body": {
+    "type": "string",
+    "text": "Make room for teamwork, one little task at a time. Your household stays on this device. No account needed."
+  },
+  "household_name": {
+    "type": "string",
+    "text": "Household name"
+  },
+  "nickname": {
+    "type": "string",
+    "text": "Your nickname"
+  },
+  "start": {
+    "type": "string",
+    "text": "Create our household"
+  },
+  "local_private": {
+    "type": "string",
+    "text": "PRIVATE BY DEFAULT · OFFLINE FIRST"
+  },
+  "language": {
+    "type": "string",
+    "text": "Language"
+  },
+  "language_pending": {
+    "type": "string",
+    "text": "English is available. Other languages are awaiting translation and human review."
+  },
+  "member_add": {
+    "type": "string",
+    "text": "Add a family member"
+  },
+  "child": {
+    "type": "string",
+    "text": "Child"
+  },
+  "adult": {
+    "type": "string",
+    "text": "Adult"
+  },
+  "child_view": {
+    "type": "string",
+    "text": "Open child view"
+  },
+  "parent_view": {
+    "type": "string",
+    "text": "Return to parent area"
+  },
+  "child_tasks": {
+    "type": "string",
+    "text": "Your little part. A big difference."
+  },
+  "child_empty": {
+    "type": "string",
+    "text": "All clear for today. Thank you for helping!"
+  },
+  "reward_add": {
+    "type": "string",
+    "text": "Create a reward"
+  },
+  "reward_cost": {
+    "type": "string",
+    "text": "Stars needed"
+  },
+  "redeem": {
+    "type": "string",
+    "text": "Redeem"
+  },
+  "rewards_intro": {
+    "type": "string",
+    "text": "Celebrate effort, your family’s way."
+  },
+  "rewards_empty": {
+    "type": "string",
+    "text": "Create a shared treat or a small celebration. Rewards are always parent-controlled."
+  },
+  "routine_add": {
+    "type": "string",
+    "text": "Create a routine"
+  },
+  "routine_intro": {
+    "type": "string",
+    "text": "Little rhythms for busy days."
+  },
+  "routine_name": {
+    "type": "string",
+    "text": "Routine name"
+  },
+  "routine_select": {
+    "type": "string",
+    "text": "Select chores in the order they should appear."
+  },
+  "routine_empty": {
+    "type": "string",
+    "text": "Group existing chores into a morning, evening or weekend routine."
+  },
+  "voice": {
+    "type": "string",
+    "text": "Voice shortcut"
+  },
+  "voice_intro": {
+    "type": "string",
+    "text": "A little help, hands free."
+  },
+  "voice_disclosure": {
+    "type": "string",
+    "text": "Push to talk uses your device’s speech service, which may process speech online. No audio is saved by TidyTroupe. Microphone input is unavailable in child mode."
+  },
+  "voice_unavailable": {
+    "type": "string",
+    "text": "Speech recognition is unavailable on this device. You can type a command below."
+  },
+  "voice_hint": {
+    "type": "string",
+    "text": "Try “What chores are due today?”"
+  },
+  "voice_command": {
+    "type": "string",
+    "text": "Type a command"
+  },
+  "listen": {
+    "type": "string",
+    "text": "Push to talk"
+  },
+  "listening": {
+    "type": "string",
+    "text": "Listening…"
+  },
+  "run_command": {
+    "type": "string",
+    "text": "Review command"
+  },
+  "speak": {
+    "type": "string",
+    "text": "Read aloud"
+  },
+  "confirm": {
+    "type": "string",
+    "text": "Confirm"
+  },
+  "progress_intro": {
+    "type": "string",
+    "text": "Every little effort adds up."
+  },
+  "completed": {
+    "type": "string",
+    "text": "Completed"
+  },
+  "remaining": {
+    "type": "string",
+    "text": "Remaining"
+  },
+  "stars_earned": {
+    "type": "string",
+    "text": "Stars earned"
+  },
+  "weekly": {
+    "type": "string",
+    "text": "This week"
+  },
+  "history": {
+    "type": "string",
+    "text": "Recent activity"
+  },
+  "no_history": {
+    "type": "string",
+    "text": "Your family’s progress will appear here as chores are completed."
+  },
+  "privacy": {
+    "type": "string",
+    "text": "Privacy and your data"
+  },
+  "privacy_detail": {
+    "type": "string",
+    "text": "Profiles, chores, routines and rewards are stored locally. No accounts, ads or analytics. Device speech services have their own privacy practices. Android automatic cloud backup is disabled. Exported files contain household data; store them safely."
+  },
+  "export": {
+    "type": "string",
+    "text": "Export household JSON"
+  },
+  "import_data": {
+    "type": "string",
+    "text": "Import household JSON"
+  },
+  "import_warning": {
+    "type": "string",
+    "text": "Import replaces the household. Choose only a backup you trust."
+  },
+  "delete_household": {
+    "type": "string",
+    "text": "Delete household data"
+  },
+  "delete_warning": {
+    "type": "string",
+    "text": "This permanently deletes all profiles, chores, rewards and history from this device."
+  },
+  "theme": {
+    "type": "string",
+    "text": "Appearance"
+  },
+  "system_theme": {
+    "type": "string",
+    "text": "System"
+  },
+  "light_theme": {
+    "type": "string",
+    "text": "Light"
+  },
+  "dark_theme": {
+    "type": "string",
+    "text": "Dark"
+  },
+  "reminders": {
+    "type": "string",
+    "text": "Daily reminder"
+  },
+  "reminder_detail": {
+    "type": "string",
+    "text": "Optional reminder at approximately 18:00 device time. Android may delay it. Quiet hours: 20:00–08:00."
+  },
+  "premium": {
+    "type": "string",
+    "text": "TidyTroupe Premium"
+  },
+  "premium_pending": {
+    "type": "string",
+    "text": "Purchases are not available in this development build. Amazon IAP product configuration and receipt verification must be connected before release. No payment is taken."
+  },
+  "bedroom": {
+    "type": "string",
+    "text": "Bedroom"
+  },
+  "kitchen": {
+    "type": "string",
+    "text": "Kitchen"
+  },
+  "bathroom": {
+    "type": "string",
+    "text": "Bathroom"
+  },
+  "laundry": {
+    "type": "string",
+    "text": "Laundry"
+  },
+  "living_room": {
+    "type": "string",
+    "text": "Living Room"
+  },
+  "garden": {
+    "type": "string",
+    "text": "Garden"
+  },
+  "pets": {
+    "type": "string",
+    "text": "Pets"
+  },
+  "school": {
+    "type": "string",
+    "text": "School Preparation"
+  },
+  "general": {
+    "type": "string",
+    "text": "General Household"
+  },
+  "once": {
+    "type": "string",
+    "text": "Once"
+  },
+  "daily": {
+    "type": "string",
+    "text": "Daily"
+  },
+  "weekly_repeat": {
+    "type": "string",
+    "text": "Weekly"
+  },
+  "monthly": {
+    "type": "string",
+    "text": "Monthly"
+  },
+  "weekdays": {
+    "type": "string",
+    "text": "Weekdays"
+  },
+  "unassigned": {
+    "type": "string",
+    "text": "Unassigned"
+  },
+  "saved": {
+    "type": "string",
+    "text": "Saved"
+  },
+  "invalid_form": {
+    "type": "string",
+    "text": "Please check the name, date and stars."
+  },
+  "action_failed": {
+    "type": "string",
+    "text": "Could not complete that action. Please check your selection or unlock the parent area."
+  },
+  "notification_title": {
+    "type": "string",
+    "text": "A little teamwork time"
+  },
+  "notification_body": {
+    "type": "string",
+    "text": "Your household checklist is ready whenever you are."
+  },
+  "notification_channel": {
+    "type": "string",
+    "text": "Household reminders"
+  },
+  "chore_count": {
+    "type": "plurals",
+    "items": {
+      "one": "%d chore",
+      "other": "%d chores"
+    }
+  },
+  "confirm_pin": {
+    "type": "string",
+    "text": "Confirm parent PIN"
+  },
+  "custom_category": {
+    "type": "string",
+    "text": "Category or custom category"
+  },
+  "selected_days": {
+    "type": "string",
+    "text": "Selected weekdays"
+  },
+  "custom_days": {
+    "type": "string",
+    "text": "Every N days"
+  },
+  "repeat_interval": {
+    "type": "string",
+    "text": "Repeat interval (1–365)"
+  },
+  "effort": {
+    "type": "string",
+    "text": "Effort"
+  },
+  "effort_small": {
+    "type": "string",
+    "text": "Little task"
+  },
+  "effort_medium": {
+    "type": "string",
+    "text": "Medium task"
+  },
+  "effort_large": {
+    "type": "string",
+    "text": "Bigger task"
+  },
+  "archived_chore": {
+    "type": "string",
+    "text": "Archived chore"
+  },
+  "notifications_denied": {
+    "type": "string",
+    "text": "Notifications are disabled. You can enable them in device settings."
+  },
+  "mic_denied": {
+    "type": "string",
+    "text": "Microphone permission was not granted. You can type your command."
+  },
+  "enable_voice": {
+    "type": "string",
+    "text": "Enable adult microphone input"
+  },
+  "voice_ambiguous": {
+    "type": "string",
+    "text": "Please use an exact, unique chore or nickname, or choose it by touch."
+  },
+  "voice_reminder_limited": {
+    "type": "string",
+    "text": "Dated voice reminders are not connected yet. Please set a due date in the chore editor."
+  },
+  "voice_unknown": {
+    "type": "string",
+    "text": "I could not match that command. Try the example, or use the touch controls."
+  },
+  "voice_confirm": {
+    "type": "string",
+    "text": "Please confirm this change to your household."
+  },
+  "tts_unavailable": {
+    "type": "string",
+    "text": "Text-to-speech is unavailable for English on this device."
+  },
+  "hero_eyebrow": {
+    "type": "string",
+    "text": "A LITTLE HELP. A LOT OF HEART."
+  },
+  "previous_week": {
+    "type": "string",
+    "text": "Previous week"
+  },
+  "next_week": {
+    "type": "string",
+    "text": "Next week"
+  },
+  "encrypted_export": {
+    "type": "string",
+    "text": "Create encrypted backup"
+  },
+  "encrypted_import": {
+    "type": "string",
+    "text": "Restore encrypted backup"
+  },
+  "backup_password": {
+    "type": "string",
+    "text": "Backup password"
+  },
+  "backup_help": {
+    "type": "string",
+    "text": "Use a separate password with at least 12 characters. Keep it safe: lost backup passwords cannot be recovered. Restoring replaces household data."
+  },
+  "backup_password_confirm": {
+    "type": "string",
+    "text": "Confirm backup password"
+  },
+  "premium_active": {
+    "type": "string",
+    "text": "Premium purchase verified"
+  },
+  "upgrade": {
+    "type": "string",
+    "text": "One-time upgrade"
+  },
+  "restore_purchases": {
+    "type": "string",
+    "text": "Restore Amazon purchases"
+  },
+  "upcoming": {
+    "type": "string",
+    "text": "Coming up next"
+  },
+  "schedule_view": {
+    "type": "string",
+    "text": "Schedule"
+  },
+  "all_chores": {
+    "type": "string",
+    "text": "All chores"
+  },
+  "archived": {
+    "type": "string",
+    "text": "Archived"
+  },
+  "restore": {
+    "type": "string",
+    "text": "Restore"
+  },
+  "rename_household": {
+    "type": "string",
+    "text": "Rename household"
+  },
+  "change_pin": {
+    "type": "string",
+    "text": "Change parent PIN"
+  },
+  "current_pin": {
+    "type": "string",
+    "text": "Current parent PIN"
+  },
+  "new_pin": {
+    "type": "string",
+    "text": "New parent PIN"
+  },
+  "templates": {
+    "type": "string",
+    "text": "Routine ideas"
+  },
+  "morning": {
+    "type": "string",
+    "text": "Morning preparation"
+  },
+  "evening": {
+    "type": "string",
+    "text": "Evening tidy-up"
+  },
+  "weekend": {
+    "type": "string",
+    "text": "Weekend cleaning"
+  },
+  "make_bed": {
+    "type": "string",
+    "text": "Make the bed"
+  },
+  "pack_bag": {
+    "type": "string",
+    "text": "Pack the school bag"
+  },
+  "fill_bottle": {
+    "type": "string",
+    "text": "Fill the water bottle"
+  },
+  "put_toys_away": {
+    "type": "string",
+    "text": "Put toys away"
+  },
+  "prepare_clothes": {
+    "type": "string",
+    "text": "Prepare tomorrow’s clothes"
+  },
+  "clear_table": {
+    "type": "string",
+    "text": "Clear the table"
+  },
+  "tidy_room": {
+    "type": "string",
+    "text": "Tidy the room"
+  },
+  "wipe_surfaces": {
+    "type": "string",
+    "text": "Wipe the surfaces"
+  },
+  "water_plants": {
+    "type": "string",
+    "text": "Water the plants"
+  },
+  "choose_template": {
+    "type": "string",
+    "text": "Choose a routine idea to make your own. Tasks will be added to your household."
+  },
+  "private_badge": {
+    "type": "string",
+    "text": "Teamwork badge earned"
+  },
+  "child_speech": {
+    "type": "string",
+    "text": "Spoken instructions in child view"
+  },
+  "child_speech_help": {
+    "type": "string",
+    "text": "Optional text-to-speech uses the device’s speech engine and may need a network connection. Microphone input stays disabled in child view."
+  },
+  "backup_retry": {
+    "type": "string",
+    "text": "No export data is available. Unlock the parent area and start the export again."
+  },
+  "chore_reminder": {
+    "type": "string",
+    "text": "Remind me about this chore"
+  },
+  "reminder_time": {
+    "type": "string",
+    "text": "Local reminder time (HH:MM)"
+  },
+  "reminder_time_help": {
+    "type": "string",
+    "text": "Choose 08:00–19:59. Reminders are approximate and follow device time. Quiet hours: 20:00–08:00."
+  }
+}

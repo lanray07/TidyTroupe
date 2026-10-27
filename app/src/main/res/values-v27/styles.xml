@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.TidyTroupe" parent="Theme.TidyTroupe.Base">
+        <item name="android:navigationBarColor">#FAF7F0</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>

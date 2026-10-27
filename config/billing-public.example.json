@@ -1,0 +1,5 @@
+{
+  "sku": "YOUR_REGISTERED_ENTITLEMENT_SKU",
+  "verifierUrl": "https://YOUR-VERIFIER-HOST/verify",
+  "verifierPublicKeyPem": "-----BEGIN PUBLIC KEY-----\nYOUR_VERIFIER_RSA_PUBLIC_KEY\n-----END PUBLIC KEY-----"
+}

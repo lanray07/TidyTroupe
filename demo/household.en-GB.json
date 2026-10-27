@@ -1,0 +1,273 @@
+{
+  "format": "tidytroupe",
+  "version": 1,
+  "household": "Willow House · Demo",
+  "members": [
+    {
+      "id": "746c669a-d753-5115-aa8f-170252477770",
+      "nickname": "Parent",
+      "child": false,
+      "avatar": 0
+    },
+    {
+      "id": "f3d7f1fb-3f42-5f85-8b79-723d2387fc34",
+      "nickname": "Alex",
+      "child": true,
+      "avatar": 1
+    },
+    {
+      "id": "84db3d8f-3acc-5020-8f5c-71e8e2520e49",
+      "nickname": "Rowan",
+      "child": true,
+      "avatar": 2
+    }
+  ],
+  "chores": [
+    {
+      "id": "7b2113f3-f168-5a0c-af1e-4006a549e039",
+      "title": "Make the bed",
+      "memberId": "f3d7f1fb-3f42-5f85-8b79-723d2387fc34",
+      "category": "Bedroom",
+      "notes": "A little help makes a difference.",
+      "points": 5,
+      "due": "2026-10-20",
+      "repeat": "DAILY",
+      "paused": false,
+      "archived": false,
+      "approval": true,
+      "repeatInterval": 1,
+      "weekdays": "",
+      "effort": 1,
+      "reminderMinutes": null
+    },
+    {
+      "id": "f9df77c2-2cea-561a-9a8d-091a509822b9",
+      "title": "Water the plants",
+      "memberId": "84db3d8f-3acc-5020-8f5c-71e8e2520e49",
+      "category": "Garden",
+      "notes": "A little help makes a difference.",
+      "points": 3,
+      "due": "2026-10-20",
+      "repeat": "DAILY",
+      "paused": false,
+      "archived": false,
+      "approval": true,
+      "repeatInterval": 1,
+      "weekdays": "",
+      "effort": 1,
+      "reminderMinutes": null
+    },
+    {
+      "id": "c39e118e-068f-58b8-8d4e-44aaeffe876e",
+      "title": "Feed the cat",
+      "memberId": "f3d7f1fb-3f42-5f85-8b79-723d2387fc34",
+      "category": "Pets",
+      "notes": "A little help makes a difference.",
+      "points": 5,
+      "due": "2026-10-20",
+      "repeat": "DAILY",
+      "paused": false,
+      "archived": false,
+      "approval": true,
+      "repeatInterval": 1,
+      "weekdays": "",
+      "effort": 1,
+      "reminderMinutes": null
+    },
+    {
+      "id": "99e9d2e0-8f36-5074-b4ab-5cabb5dcb455",
+      "title": "Set the table",
+      "memberId": "84db3d8f-3acc-5020-8f5c-71e8e2520e49",
+      "category": "Kitchen",
+      "notes": "A little help makes a difference.",
+      "points": 4,
+      "due": "2026-10-20",
+      "repeat": "DAILY",
+      "paused": false,
+      "archived": false,
+      "approval": true,
+      "repeatInterval": 1,
+      "weekdays": "",
+      "effort": 1,
+      "reminderMinutes": null
+    },
+    {
+      "id": "38f1edfa-3d06-50c8-a956-3b5302610f0b",
+      "title": "Fold the towels",
+      "memberId": "746c669a-d753-5115-aa8f-170252477770",
+      "category": "Laundry",
+      "notes": "A little help makes a difference.",
+      "points": 5,
+      "due": "2026-10-20",
+      "repeat": "WEEKLY",
+      "paused": false,
+      "archived": false,
+      "approval": true,
+      "repeatInterval": 1,
+      "weekdays": "",
+      "effort": 1,
+      "reminderMinutes": null
+    },
+    {
+      "id": "c4588bf7-843a-56cb-acf2-dd2424d87989",
+      "title": "Pack the school bag",
+      "memberId": "f3d7f1fb-3f42-5f85-8b79-723d2387fc34",
+      "category": "School Preparation",
+      "notes": "A little help makes a difference.",
+      "points": 3,
+      "due": "2026-10-20",
+      "repeat": "WEEKDAYS",
+      "paused": false,
+      "archived": false,
+      "approval": true,
+      "repeatInterval": 1,
+      "weekdays": "",
+      "effort": 1,
+      "reminderMinutes": null
+    },
+    {
+      "id": "94664504-7e69-5a94-aec0-0e80bb4fdc4c",
+      "title": "Tidy the living room",
+      "memberId": "746c669a-d753-5115-aa8f-170252477770",
+      "category": "Living Room",
+      "notes": "A little help makes a difference.",
+      "points": 5,
+      "due": "2026-10-20",
+      "repeat": "WEEKLY",
+      "paused": false,
+      "archived": false,
+      "approval": true,
+      "repeatInterval": 1,
+      "weekdays": "",
+      "effort": 1,
+      "reminderMinutes": null
+    }
+  ],
+  "completions": [
+    {
+      "choreId": "7b2113f3-f168-5a0c-af1e-4006a549e039",
+      "date": "2026-10-27",
+      "memberId": "f3d7f1fb-3f42-5f85-8b79-723d2387fc34",
+      "points": 5,
+      "status": "APPROVED"
+    },
+    {
+      "choreId": "f9df77c2-2cea-561a-9a8d-091a509822b9",
+      "date": "2026-10-27",
+      "memberId": "84db3d8f-3acc-5020-8f5c-71e8e2520e49",
+      "points": 3,
+      "status": "APPROVED"
+    },
+    {
+      "choreId": "7b2113f3-f168-5a0c-af1e-4006a549e039",
+      "date": "2026-10-26",
+      "memberId": "f3d7f1fb-3f42-5f85-8b79-723d2387fc34",
+      "points": 5,
+      "status": "APPROVED"
+    },
+    {
+      "choreId": "f9df77c2-2cea-561a-9a8d-091a509822b9",
+      "date": "2026-10-26",
+      "memberId": "84db3d8f-3acc-5020-8f5c-71e8e2520e49",
+      "points": 3,
+      "status": "APPROVED"
+    },
+    {
+      "choreId": "7b2113f3-f168-5a0c-af1e-4006a549e039",
+      "date": "2026-10-25",
+      "memberId": "f3d7f1fb-3f42-5f85-8b79-723d2387fc34",
+      "points": 5,
+      "status": "APPROVED"
+    },
+    {
+      "choreId": "f9df77c2-2cea-561a-9a8d-091a509822b9",
+      "date": "2026-10-25",
+      "memberId": "84db3d8f-3acc-5020-8f5c-71e8e2520e49",
+      "points": 3,
+      "status": "APPROVED"
+    },
+    {
+      "choreId": "7b2113f3-f168-5a0c-af1e-4006a549e039",
+      "date": "2026-10-24",
+      "memberId": "f3d7f1fb-3f42-5f85-8b79-723d2387fc34",
+      "points": 5,
+      "status": "APPROVED"
+    },
+    {
+      "choreId": "f9df77c2-2cea-561a-9a8d-091a509822b9",
+      "date": "2026-10-24",
+      "memberId": "84db3d8f-3acc-5020-8f5c-71e8e2520e49",
+      "points": 3,
+      "status": "APPROVED"
+    },
+    {
+      "choreId": "7b2113f3-f168-5a0c-af1e-4006a549e039",
+      "date": "2026-10-23",
+      "memberId": "f3d7f1fb-3f42-5f85-8b79-723d2387fc34",
+      "points": 5,
+      "status": "APPROVED"
+    },
+    {
+      "choreId": "f9df77c2-2cea-561a-9a8d-091a509822b9",
+      "date": "2026-10-23",
+      "memberId": "84db3d8f-3acc-5020-8f5c-71e8e2520e49",
+      "points": 3,
+      "status": "APPROVED"
+    },
+    {
+      "choreId": "7b2113f3-f168-5a0c-af1e-4006a549e039",
+      "date": "2026-10-22",
+      "memberId": "f3d7f1fb-3f42-5f85-8b79-723d2387fc34",
+      "points": 5,
+      "status": "APPROVED"
+    },
+    {
+      "choreId": "f9df77c2-2cea-561a-9a8d-091a509822b9",
+      "date": "2026-10-22",
+      "memberId": "84db3d8f-3acc-5020-8f5c-71e8e2520e49",
+      "points": 3,
+      "status": "APPROVED"
+    },
+    {
+      "choreId": "7b2113f3-f168-5a0c-af1e-4006a549e039",
+      "date": "2026-10-21",
+      "memberId": "f3d7f1fb-3f42-5f85-8b79-723d2387fc34",
+      "points": 5,
+      "status": "APPROVED"
+    },
+    {
+      "choreId": "f9df77c2-2cea-561a-9a8d-091a509822b9",
+      "date": "2026-10-21",
+      "memberId": "84db3d8f-3acc-5020-8f5c-71e8e2520e49",
+      "points": 3,
+      "status": "APPROVED"
+    },
+    {
+      "choreId": "c39e118e-068f-58b8-8d4e-44aaeffe876e",
+      "date": "2026-10-27",
+      "memberId": "f3d7f1fb-3f42-5f85-8b79-723d2387fc34",
+      "points": 5,
+      "status": "PENDING"
+    }
+  ],
+  "rewards": [
+    {
+      "id": "3433d838-362d-5881-aebe-74fddc63ad96",
+      "title": "Choose the family film",
+      "cost": 30
+    },
+    {
+      "id": "d837f2b3-df69-59d2-aa1a-4bfd67561190",
+      "title": "A picnic together",
+      "cost": 50
+    }
+  ],
+  "redemptions": [],
+  "routines": [
+    {
+      "id": "4b62c3bd-e677-5c68-b11c-1f1e1d750307",
+      "title": "Morning preparation",
+      "choreIdsJson": "[\"7b2113f3-f168-5a0c-af1e-4006a549e039\", \"c39e118e-068f-58b8-8d4e-44aaeffe876e\", \"c4588bf7-843a-56cb-acf2-dd2424d87989\"]"
+    }
+  ]
+}

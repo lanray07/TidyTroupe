@@ -1,0 +1,2825 @@
+{
+  "status": "BLOCKED_PENDING_REAL_APP_CAPTURES_AND_LOCALISATION",
+  "approved_listing_locales": [],
+  "allowed_amazon_dimensions": [
+    [
+      800,
+      480
+    ],
+    [
+      1024,
+      600
+    ],
+    [
+      1280,
+      720
+    ],
+    [
+      1280,
+      800
+    ],
+    [
+      1920,
+      1080
+    ],
+    [
+      1920,
+      1200
+    ],
+    [
+      2560,
+      1600
+    ]
+  ],
+  "portrait_transpose_allowed": true,
+  "source": "https://developer.amazon.com/docs/app-submission/appstore-details.html",
+  "rules": [
+    "Use actual implemented app screens",
+    "Seed demo data only in debug/test builds",
+    "UI, headline and caption must share the same reviewed locale",
+    "Do not wrap Amazon tablet screenshots in unsupported device hardware",
+    "Never publish sample progress as household history",
+    "Phone captures are secondary Android distribution assets",
+    "Marketing compositions need console policy review before upload"
+  ],
+  "scenes": [
+    {
+      "id": "dashboard",
+      "headline_source_en_GB": "Family Chore Planner",
+      "caption_source_en_GB": "Organise household tasks together."
+    },
+    {
+      "id": "child",
+      "headline_source_en_GB": "Kids Chore Chart & Rewards",
+      "caption_source_en_GB": "Make daily responsibilities fun and rewarding."
+    },
+    {
+      "id": "calendar",
+      "headline_source_en_GB": "Daily & Weekly Chore Schedule",
+      "caption_source_en_GB": "Keep family routines organised."
+    },
+    {
+      "id": "rewards",
+      "headline_source_en_GB": "Parent-Controlled Rewards",
+      "caption_source_en_GB": "Celebrate effort with rewards you manage."
+    },
+    {
+      "id": "routines",
+      "headline_source_en_GB": "Household Routine Planner",
+      "caption_source_en_GB": "Create simple routines for busy families."
+    },
+    {
+      "id": "voice",
+      "headline_source_en_GB": "Voice-Powered Chore Manager",
+      "caption_source_en_GB": "Add tasks and check progress using supported voice commands."
+    },
+    {
+      "id": "offline",
+      "headline_source_en_GB": "Offline Family Chore App",
+      "caption_source_en_GB": "Manage chores without internet."
+    },
+    {
+      "id": "progress",
+      "headline_source_en_GB": "Family Progress Tracker",
+      "caption_source_en_GB": "See completed tasks and weekly progress."
+    }
+  ],
+  "captures": [
+    {
+      "locale": "en-GB",
+      "scene": "dashboard",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-GB",
+      "scene": "dashboard",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-GB",
+      "scene": "child",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-GB",
+      "scene": "child",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-GB",
+      "scene": "calendar",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-GB",
+      "scene": "calendar",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-GB",
+      "scene": "rewards",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-GB",
+      "scene": "rewards",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-GB",
+      "scene": "routines",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-GB",
+      "scene": "routines",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-GB",
+      "scene": "voice",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-GB",
+      "scene": "voice",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-GB",
+      "scene": "offline",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-GB",
+      "scene": "offline",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-GB",
+      "scene": "progress",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-GB",
+      "scene": "progress",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-US",
+      "scene": "dashboard",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-US",
+      "scene": "dashboard",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-US",
+      "scene": "child",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-US",
+      "scene": "child",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-US",
+      "scene": "calendar",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-US",
+      "scene": "calendar",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-US",
+      "scene": "rewards",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-US",
+      "scene": "rewards",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-US",
+      "scene": "routines",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-US",
+      "scene": "routines",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-US",
+      "scene": "voice",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-US",
+      "scene": "voice",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-US",
+      "scene": "offline",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-US",
+      "scene": "offline",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-US",
+      "scene": "progress",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-US",
+      "scene": "progress",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-AU",
+      "scene": "dashboard",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-AU",
+      "scene": "dashboard",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-AU",
+      "scene": "child",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-AU",
+      "scene": "child",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-AU",
+      "scene": "calendar",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-AU",
+      "scene": "calendar",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-AU",
+      "scene": "rewards",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-AU",
+      "scene": "rewards",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-AU",
+      "scene": "routines",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-AU",
+      "scene": "routines",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-AU",
+      "scene": "voice",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-AU",
+      "scene": "voice",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-AU",
+      "scene": "offline",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-AU",
+      "scene": "offline",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-AU",
+      "scene": "progress",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "en-AU",
+      "scene": "progress",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-ES",
+      "scene": "dashboard",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-ES",
+      "scene": "dashboard",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-ES",
+      "scene": "child",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-ES",
+      "scene": "child",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-ES",
+      "scene": "calendar",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-ES",
+      "scene": "calendar",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-ES",
+      "scene": "rewards",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-ES",
+      "scene": "rewards",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-ES",
+      "scene": "routines",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-ES",
+      "scene": "routines",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-ES",
+      "scene": "voice",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-ES",
+      "scene": "voice",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-ES",
+      "scene": "offline",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-ES",
+      "scene": "offline",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-ES",
+      "scene": "progress",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-ES",
+      "scene": "progress",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-419",
+      "scene": "dashboard",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-419",
+      "scene": "dashboard",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-419",
+      "scene": "child",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-419",
+      "scene": "child",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-419",
+      "scene": "calendar",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-419",
+      "scene": "calendar",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-419",
+      "scene": "rewards",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-419",
+      "scene": "rewards",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-419",
+      "scene": "routines",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-419",
+      "scene": "routines",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-419",
+      "scene": "voice",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-419",
+      "scene": "voice",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-419",
+      "scene": "offline",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-419",
+      "scene": "offline",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-419",
+      "scene": "progress",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "es-419",
+      "scene": "progress",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-FR",
+      "scene": "dashboard",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-FR",
+      "scene": "dashboard",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-FR",
+      "scene": "child",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-FR",
+      "scene": "child",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-FR",
+      "scene": "calendar",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-FR",
+      "scene": "calendar",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-FR",
+      "scene": "rewards",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-FR",
+      "scene": "rewards",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-FR",
+      "scene": "routines",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-FR",
+      "scene": "routines",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-FR",
+      "scene": "voice",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-FR",
+      "scene": "voice",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-FR",
+      "scene": "offline",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-FR",
+      "scene": "offline",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-FR",
+      "scene": "progress",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-FR",
+      "scene": "progress",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-CA",
+      "scene": "dashboard",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-CA",
+      "scene": "dashboard",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-CA",
+      "scene": "child",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-CA",
+      "scene": "child",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-CA",
+      "scene": "calendar",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-CA",
+      "scene": "calendar",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-CA",
+      "scene": "rewards",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-CA",
+      "scene": "rewards",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-CA",
+      "scene": "routines",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-CA",
+      "scene": "routines",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-CA",
+      "scene": "voice",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-CA",
+      "scene": "voice",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-CA",
+      "scene": "offline",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-CA",
+      "scene": "offline",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-CA",
+      "scene": "progress",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "fr-CA",
+      "scene": "progress",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "de-DE",
+      "scene": "dashboard",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "de-DE",
+      "scene": "dashboard",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "de-DE",
+      "scene": "child",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "de-DE",
+      "scene": "child",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "de-DE",
+      "scene": "calendar",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "de-DE",
+      "scene": "calendar",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "de-DE",
+      "scene": "rewards",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "de-DE",
+      "scene": "rewards",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "de-DE",
+      "scene": "routines",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "de-DE",
+      "scene": "routines",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "de-DE",
+      "scene": "voice",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "de-DE",
+      "scene": "voice",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "de-DE",
+      "scene": "offline",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "de-DE",
+      "scene": "offline",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "de-DE",
+      "scene": "progress",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "de-DE",
+      "scene": "progress",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "it-IT",
+      "scene": "dashboard",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "it-IT",
+      "scene": "dashboard",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "it-IT",
+      "scene": "child",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "it-IT",
+      "scene": "child",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "it-IT",
+      "scene": "calendar",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "it-IT",
+      "scene": "calendar",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "it-IT",
+      "scene": "rewards",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "it-IT",
+      "scene": "rewards",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "it-IT",
+      "scene": "routines",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "it-IT",
+      "scene": "routines",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "it-IT",
+      "scene": "voice",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "it-IT",
+      "scene": "voice",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "it-IT",
+      "scene": "offline",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "it-IT",
+      "scene": "offline",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "it-IT",
+      "scene": "progress",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "it-IT",
+      "scene": "progress",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-BR",
+      "scene": "dashboard",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-BR",
+      "scene": "dashboard",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-BR",
+      "scene": "child",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-BR",
+      "scene": "child",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-BR",
+      "scene": "calendar",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-BR",
+      "scene": "calendar",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-BR",
+      "scene": "rewards",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-BR",
+      "scene": "rewards",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-BR",
+      "scene": "routines",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-BR",
+      "scene": "routines",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-BR",
+      "scene": "voice",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-BR",
+      "scene": "voice",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-BR",
+      "scene": "offline",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-BR",
+      "scene": "offline",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-BR",
+      "scene": "progress",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-BR",
+      "scene": "progress",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-PT",
+      "scene": "dashboard",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-PT",
+      "scene": "dashboard",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-PT",
+      "scene": "child",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-PT",
+      "scene": "child",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-PT",
+      "scene": "calendar",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-PT",
+      "scene": "calendar",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-PT",
+      "scene": "rewards",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-PT",
+      "scene": "rewards",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-PT",
+      "scene": "routines",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-PT",
+      "scene": "routines",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-PT",
+      "scene": "voice",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-PT",
+      "scene": "voice",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-PT",
+      "scene": "offline",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-PT",
+      "scene": "offline",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-PT",
+      "scene": "progress",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pt-PT",
+      "scene": "progress",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "nl-NL",
+      "scene": "dashboard",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "nl-NL",
+      "scene": "dashboard",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "nl-NL",
+      "scene": "child",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "nl-NL",
+      "scene": "child",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "nl-NL",
+      "scene": "calendar",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "nl-NL",
+      "scene": "calendar",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "nl-NL",
+      "scene": "rewards",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "nl-NL",
+      "scene": "rewards",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "nl-NL",
+      "scene": "routines",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "nl-NL",
+      "scene": "routines",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "nl-NL",
+      "scene": "voice",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "nl-NL",
+      "scene": "voice",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "nl-NL",
+      "scene": "offline",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "nl-NL",
+      "scene": "offline",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "nl-NL",
+      "scene": "progress",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "nl-NL",
+      "scene": "progress",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pl-PL",
+      "scene": "dashboard",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pl-PL",
+      "scene": "dashboard",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pl-PL",
+      "scene": "child",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pl-PL",
+      "scene": "child",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pl-PL",
+      "scene": "calendar",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pl-PL",
+      "scene": "calendar",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pl-PL",
+      "scene": "rewards",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pl-PL",
+      "scene": "rewards",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pl-PL",
+      "scene": "routines",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pl-PL",
+      "scene": "routines",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pl-PL",
+      "scene": "voice",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pl-PL",
+      "scene": "voice",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pl-PL",
+      "scene": "offline",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pl-PL",
+      "scene": "offline",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pl-PL",
+      "scene": "progress",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "pl-PL",
+      "scene": "progress",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "sv-SE",
+      "scene": "dashboard",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "sv-SE",
+      "scene": "dashboard",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "sv-SE",
+      "scene": "child",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "sv-SE",
+      "scene": "child",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "sv-SE",
+      "scene": "calendar",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "sv-SE",
+      "scene": "calendar",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "sv-SE",
+      "scene": "rewards",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "sv-SE",
+      "scene": "rewards",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "sv-SE",
+      "scene": "routines",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "sv-SE",
+      "scene": "routines",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "sv-SE",
+      "scene": "voice",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "sv-SE",
+      "scene": "voice",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "sv-SE",
+      "scene": "offline",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "sv-SE",
+      "scene": "offline",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "sv-SE",
+      "scene": "progress",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "sv-SE",
+      "scene": "progress",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ja-JP",
+      "scene": "dashboard",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ja-JP",
+      "scene": "dashboard",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ja-JP",
+      "scene": "child",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ja-JP",
+      "scene": "child",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ja-JP",
+      "scene": "calendar",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ja-JP",
+      "scene": "calendar",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ja-JP",
+      "scene": "rewards",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ja-JP",
+      "scene": "rewards",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ja-JP",
+      "scene": "routines",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ja-JP",
+      "scene": "routines",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ja-JP",
+      "scene": "voice",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ja-JP",
+      "scene": "voice",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ja-JP",
+      "scene": "offline",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ja-JP",
+      "scene": "offline",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ja-JP",
+      "scene": "progress",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ja-JP",
+      "scene": "progress",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "hi-IN",
+      "scene": "dashboard",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "hi-IN",
+      "scene": "dashboard",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "hi-IN",
+      "scene": "child",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "hi-IN",
+      "scene": "child",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "hi-IN",
+      "scene": "calendar",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "hi-IN",
+      "scene": "calendar",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "hi-IN",
+      "scene": "rewards",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "hi-IN",
+      "scene": "rewards",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "hi-IN",
+      "scene": "routines",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "hi-IN",
+      "scene": "routines",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "hi-IN",
+      "scene": "voice",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "hi-IN",
+      "scene": "voice",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "hi-IN",
+      "scene": "offline",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "hi-IN",
+      "scene": "offline",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "hi-IN",
+      "scene": "progress",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "hi-IN",
+      "scene": "progress",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ar",
+      "scene": "dashboard",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ar",
+      "scene": "dashboard",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ar",
+      "scene": "child",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ar",
+      "scene": "child",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ar",
+      "scene": "calendar",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ar",
+      "scene": "calendar",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ar",
+      "scene": "rewards",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ar",
+      "scene": "rewards",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ar",
+      "scene": "routines",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ar",
+      "scene": "routines",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ar",
+      "scene": "voice",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ar",
+      "scene": "voice",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ar",
+      "scene": "offline",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ar",
+      "scene": "offline",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ar",
+      "scene": "progress",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "ar",
+      "scene": "progress",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "tr-TR",
+      "scene": "dashboard",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "tr-TR",
+      "scene": "dashboard",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "tr-TR",
+      "scene": "child",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "tr-TR",
+      "scene": "child",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "tr-TR",
+      "scene": "calendar",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "tr-TR",
+      "scene": "calendar",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "tr-TR",
+      "scene": "rewards",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "tr-TR",
+      "scene": "rewards",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "tr-TR",
+      "scene": "routines",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "tr-TR",
+      "scene": "routines",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "tr-TR",
+      "scene": "voice",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "tr-TR",
+      "scene": "voice",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "tr-TR",
+      "scene": "offline",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "tr-TR",
+      "scene": "offline",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "tr-TR",
+      "scene": "progress",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "tr-TR",
+      "scene": "progress",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "id-ID",
+      "scene": "dashboard",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "id-ID",
+      "scene": "dashboard",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "id-ID",
+      "scene": "child",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "id-ID",
+      "scene": "child",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "id-ID",
+      "scene": "calendar",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "id-ID",
+      "scene": "calendar",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "id-ID",
+      "scene": "rewards",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "id-ID",
+      "scene": "rewards",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "id-ID",
+      "scene": "routines",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "id-ID",
+      "scene": "routines",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "id-ID",
+      "scene": "voice",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "id-ID",
+      "scene": "voice",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "id-ID",
+      "scene": "offline",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "id-ID",
+      "scene": "offline",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "id-ID",
+      "scene": "progress",
+      "variant": "fire-tablet",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    },
+    {
+      "locale": "id-ID",
+      "scene": "progress",
+      "variant": "android-phone",
+      "status": "pending",
+      "raw_capture": null,
+      "composition": null,
+      "human_review": null
+    }
+  ]
+}

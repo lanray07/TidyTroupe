@@ -1,0 +1,24 @@
+{
+  "status": "DRAFT_RECONCILE_WITH_VERIFIED_RELEASE_FEATURES_BEFORE_UPLOAD",
+  "display_title": "TidyTroupe – Family Chore & Reward Planner",
+  "display_title_characters": 42,
+  "title_limit": "No numeric display-title limit verified on public details page; validate in console",
+  "alternate_titles": [
+    "TidyTroupe – Family Chore Planner",
+    "TidyTroupe – Chores & Family Rewards"
+  ],
+  "short_description": "Plan household chores, share daily routines and celebrate teamwork with parent-controlled rewards. TidyTroupe is being developed for families using a shared Fire tablet.",
+  "long_description": "Team up. Tidy up. Celebrate together.\n\nTidyTroupe is a family chore planner being developed to help households organise daily responsibilities. The design brings chore assignments, recurring schedules and parent-controlled rewards into a calm shared-tablet experience.\n\nAdults can plan age-appropriate tasks using nicknames and illustrated avatars, with a simplified child experience and positive encouragement. The product is designed around local household data and account-free core use.\n\nPlanned voice assistance uses push-to-talk and depends on the speech services and languages available on the device. Touch and text alternatives remain part of the experience. Offline core functionality does not imply offline speech recognition.\n\nThis is pre-release copy. Confirm every feature against the tested release before submitting. Premium availability, pricing, supported languages and Fire tablet compatibility are not yet final. No cloud sync service is configured.",
+  "product_feature_bullets": [
+    "Plan family chores and recurring household responsibilities",
+    "Use a child-friendly task view with adult controls",
+    "Celebrate teamwork with parent-defined rewards",
+    "Keep core household records on the shared device",
+    "Use touch and text alternatives when device speech services are unavailable"
+  ],
+  "keywords": "family chore planner,kids chore chart,chore tracker,household task manager,family routine planner,reward chart for kids",
+  "keyword_research_status": "Source keywords are product hypotheses, not verified search-volume findings; native-market research pending",
+  "release_notes": "Initial development build. Not a public release. See verification report for tested capabilities.",
+  "premium_test_price_gbp": 3.99,
+  "price_disclosure": "Planning target only; query actual local price from Amazon product data. No live SKU configured."
+}

@@ -1,0 +1,191 @@
+{
+  "license": "Original artwork created for TidyTroupe; no third-party stock assets.",
+  "generator": "tools/generate_assets.py",
+  "screenshots": "No app screenshots are generated here. The screenshot SVG is an editable composition template only.",
+  "onboarding": {
+    "file": "app/src/main/res/drawable/onboarding_art.png",
+    "origin": "OpenAI built-in imagegen; prompt and source path documented in assets/README.md"
+  },
+  "files": [
+    {
+      "file": "assets/avatars/house-1.svg",
+      "sha256": "ded8d94de40252748ecb63b2edccccdc7c6a6e99777de54619f4f5c470dcc7af",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/avatars/house-2.svg",
+      "sha256": "594bfe48a32d4059bbe0e82578c8d7b97881e426e8ddec385076646516d1a90d",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/avatars/house-3.svg",
+      "sha256": "e19ac97f889cbc1f3ae1ecfea9d99813050b77c8f1eca4e74e3d692e9850cdb0",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/avatars/house-4.svg",
+      "sha256": "8fa6b172378c6f204c17098018784a6a9f1731c6a809431620d6b747ea62f1ef",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/avatars/house-5.svg",
+      "sha256": "4a4b600c1d82a56a81796e60e885b2b122f95dc33131c37686fe1043c5354912",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/avatars/house-6.svg",
+      "sha256": "9b9bca6b38d23ddcfa0d57198ae239c64b0d9092f8d041cd1bc1b61d7d10afea",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/avatars/round-1.svg",
+      "sha256": "ab5302ee88c663e02145b6684e81c749feaac7bbe488dc48a7c3cd3d3cca55ec",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/avatars/round-2.svg",
+      "sha256": "f040f36397986b53060820c6cebc428f78c39286c37bc9b3aa4b632df5ca5d14",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/avatars/round-3.svg",
+      "sha256": "69c24537bef8f22c6f0d917a9ca86902782dd368dfc5ea0095e2ee1595d98782",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/avatars/round-4.svg",
+      "sha256": "90beef9245ee9da5060e31dc169abe3b0e32fc2201f08dea936c838f8c471588",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/avatars/round-5.svg",
+      "sha256": "143fcb73ec5e01ef6616d5b4390232bf25059dd2f9877957cb904ea08cb1ebc7",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/avatars/round-6.svg",
+      "sha256": "16b254de1666812e71af6a16131f0ba102b845b8be09c02abe124cf41d8b1b33",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/badges/five-tasks.svg",
+      "sha256": "18856265ecb9981ae7c3c5c636d793b7789cf9694dde70368fa7f9bee41bbe66",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/badges/little-helper.svg",
+      "sha256": "18b3bb1e8a2114b207ce18bcd38811c4331f69b255fae50dbc5cf88d666ac89f",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/badges/routine-ready.svg",
+      "sha256": "1a894139db50dc945a2589efbace6413497d98d1d6c980b5885420c3db8644fc",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/badges/teamwork.svg",
+      "sha256": "6abc3d708df7fb00d676250cb3cb2aafb46f23a914ebb73e3d9d3862374b91f0",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/brand/master-icon-1024.png",
+      "sha256": "4168aa8485776ee74c1c52e52fad91876ca4d7bdd76293bd073a3823e7f06a1b",
+      "type": "original_master_icon_raster"
+    },
+    {
+      "file": "assets/brand/master-icon-512.png",
+      "sha256": "4a07b5bc37393c2525a4215f2d41cda6b74eb5c612e521d8ce3a4c0b4be12214",
+      "type": "original_master_icon_raster"
+    },
+    {
+      "file": "assets/brand/master-icon.svg",
+      "sha256": "3f92e69d16df5e771eec201e460824ce5a13a066dd80d915643ed18a20504f06",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/brand/splash.svg",
+      "sha256": "908c3e15ee2d43c05237caae10eb2b3643f5dfe8e6b28f8e86bec78e114e882b",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/categories/bathroom.svg",
+      "sha256": "93cb96edbb2086e32c4701fe907d0769b64940defc5dfbe2f4c30d71294ba4a3",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/categories/bedroom.svg",
+      "sha256": "340598f4a24ae3b4122d67cd2ee8879cc5f498fe954119fb2f3d23748cf088e4",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/categories/garden.svg",
+      "sha256": "70629e21f94bc0c67f1dacdfecd5ecd015e084c187a6c3b7c9ffb27228e19488",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/categories/general-household.svg",
+      "sha256": "6624e24a92ed6a31f1e80f59868b61188ff404dc6eeb58abb05c1c6a47b713e1",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/categories/kitchen.svg",
+      "sha256": "5ff4dc994b38b47cb6a41eb05476df080e8a665b542547e286900e64e7afca6f",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/categories/laundry.svg",
+      "sha256": "608738ee9ccd840165fcf70efd4a636408701afff761b8edeb5fa25380946dd6",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/categories/living-room.svg",
+      "sha256": "d4c9a546d0b237a26b8e1d595054d5cc037296e71038b28bbabe5abef272541f",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/categories/pets.svg",
+      "sha256": "e47ca28828ef48bb291945bd2b35dbb121c9a8ac3f061751378fbe2b1fe2f6a2",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/categories/school.svg",
+      "sha256": "50643442dc4f5fa6fef6c53dc2227916c9f068f68295e26c2548ae2619e83305",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/illustrations/empty-state.svg",
+      "sha256": "8bc7826bcc5d333febdf466e6e4a6782cca1203c53e05b74259138e6fe217a7b",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/illustrations/premium.svg",
+      "sha256": "86a77817914c763055d04989056ff06a0136cca6059492f5747da2ee051ffa69",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/illustrations/voice-assistant.svg",
+      "sha256": "7fb6c1ee42e03f10537b22b035966b56143af8d6aec5185818ea7ad9aa2d5994",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/marketing/promotional-banner.svg",
+      "sha256": "a837ae328a890c42041dc5009ec651c863c5335d965deaf999cd8179fc7e2896",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/marketing/screenshot-composition-template.svg",
+      "sha256": "d8dfa46175e09d059b51bc2e13420e552085db1d5b69b51524873b634aea96e7",
+      "type": "editable_original_vector"
+    },
+    {
+      "file": "assets/README.md",
+      "sha256": "a02b92541bc867e00dda54b596711720c2d6c61d3132da55ba43abe8c8dd81b3",
+      "type": "original_master_icon_raster"
+    },
+    {
+      "file": "assets/stickers/thank-you.svg",
+      "sha256": "64023c0abf2140e8996e16b2d1d42f532d48f006b91f65e38c322a8eb12c9f95",
+      "type": "editable_original_vector"
+    }
+  ]
+}

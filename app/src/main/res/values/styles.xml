@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.TidyTroupe.Base" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#FAF7F0</item>
+        <item name="android:navigationBarColor">#293236</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">#FAF7F0</item>
+    </style>
+    <style name="Theme.TidyTroupe" parent="Theme.TidyTroupe.Base" />
+</resources>

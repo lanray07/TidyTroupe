@@ -1,0 +1,10 @@
+{
+  "preserve": ["TidyTroupe"],
+  "terminology": {
+    "household": "A private group sharing chores; inclusive of carers and couples",
+    "stars": "Parent-controlled reward units; never currency or a purchase",
+    "approval": "Adult review of a reported completion",
+    "routine": "An ordered, reusable set of household tasks"
+  },
+  "provider_glossary": "Optional DEEPL_GLOSSARY_ID; verify source and target compatibility before use"
+}

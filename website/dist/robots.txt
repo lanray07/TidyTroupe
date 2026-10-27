@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Configure an owned production domain before indexing.

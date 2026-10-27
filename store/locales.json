@@ -1,0 +1,384 @@
+{
+  "checked_on": "2026-10-27",
+  "app_languages": [
+    {
+      "locale": "en-GB",
+      "status": "English source; review pending",
+      "rtl": false
+    },
+    {
+      "locale": "en-US",
+      "status": "translation_pending",
+      "rtl": false
+    },
+    {
+      "locale": "en-AU",
+      "status": "translation_pending",
+      "rtl": false
+    },
+    {
+      "locale": "es-ES",
+      "status": "translation_pending",
+      "rtl": false
+    },
+    {
+      "locale": "es-419",
+      "status": "translation_pending",
+      "rtl": false
+    },
+    {
+      "locale": "fr-FR",
+      "status": "translation_pending",
+      "rtl": false
+    },
+    {
+      "locale": "fr-CA",
+      "status": "translation_pending",
+      "rtl": false
+    },
+    {
+      "locale": "de-DE",
+      "status": "translation_pending",
+      "rtl": false
+    },
+    {
+      "locale": "it-IT",
+      "status": "translation_pending",
+      "rtl": false
+    },
+    {
+      "locale": "pt-BR",
+      "status": "translation_pending",
+      "rtl": false
+    },
+    {
+      "locale": "pt-PT",
+      "status": "translation_pending",
+      "rtl": false
+    },
+    {
+      "locale": "nl-NL",
+      "status": "translation_pending",
+      "rtl": false
+    },
+    {
+      "locale": "pl-PL",
+      "status": "translation_pending",
+      "rtl": false
+    },
+    {
+      "locale": "sv-SE",
+      "status": "translation_pending",
+      "rtl": false
+    },
+    {
+      "locale": "ja-JP",
+      "status": "translation_pending",
+      "rtl": false
+    },
+    {
+      "locale": "hi-IN",
+      "status": "translation_pending",
+      "rtl": false
+    },
+    {
+      "locale": "ar",
+      "status": "translation_pending",
+      "rtl": true
+    },
+    {
+      "locale": "tr-TR",
+      "status": "translation_pending",
+      "rtl": false
+    },
+    {
+      "locale": "id-ID",
+      "status": "translation_pending",
+      "rtl": false
+    }
+  ],
+  "store_listing_languages": [
+    {
+      "locale": "en-GB",
+      "documented_console_label": "English (U.K.)",
+      "status": "copy_and_assets_pending",
+      "candidate_mapping_requires_review": null
+    },
+    {
+      "locale": "en-US",
+      "documented_console_label": "English (U.S.)",
+      "status": "copy_and_assets_pending",
+      "candidate_mapping_requires_review": null
+    },
+    {
+      "locale": "en-AU",
+      "documented_console_label": "English (Australia)",
+      "status": "copy_and_assets_pending",
+      "candidate_mapping_requires_review": null
+    },
+    {
+      "locale": "es-ES",
+      "documented_console_label": "Spanish",
+      "status": "copy_and_assets_pending",
+      "candidate_mapping_requires_review": null
+    },
+    {
+      "locale": "es-419",
+      "documented_console_label": null,
+      "status": "no_exact_console_entry_verified",
+      "candidate_mapping_requires_review": "Spanish (Mexico)"
+    },
+    {
+      "locale": "fr-FR",
+      "documented_console_label": "French",
+      "status": "copy_and_assets_pending",
+      "candidate_mapping_requires_review": null
+    },
+    {
+      "locale": "fr-CA",
+      "documented_console_label": null,
+      "status": "no_exact_console_entry_verified",
+      "candidate_mapping_requires_review": "French"
+    },
+    {
+      "locale": "de-DE",
+      "documented_console_label": "German",
+      "status": "copy_and_assets_pending",
+      "candidate_mapping_requires_review": null
+    },
+    {
+      "locale": "it-IT",
+      "documented_console_label": "Italian",
+      "status": "copy_and_assets_pending",
+      "candidate_mapping_requires_review": null
+    },
+    {
+      "locale": "pt-BR",
+      "documented_console_label": "Portuguese (Brazil)",
+      "status": "copy_and_assets_pending",
+      "candidate_mapping_requires_review": null
+    },
+    {
+      "locale": "pt-PT",
+      "documented_console_label": "Portuguese (Portugal)",
+      "status": "copy_and_assets_pending",
+      "candidate_mapping_requires_review": null
+    },
+    {
+      "locale": "nl-NL",
+      "documented_console_label": "Dutch (Netherlands)",
+      "status": "copy_and_assets_pending",
+      "candidate_mapping_requires_review": null
+    },
+    {
+      "locale": "pl-PL",
+      "documented_console_label": "Polish (Poland)",
+      "status": "copy_and_assets_pending",
+      "candidate_mapping_requires_review": null
+    },
+    {
+      "locale": "sv-SE",
+      "documented_console_label": "Swedish (Sweden)",
+      "status": "copy_and_assets_pending",
+      "candidate_mapping_requires_review": null
+    },
+    {
+      "locale": "ja-JP",
+      "documented_console_label": "Japanese",
+      "status": "copy_and_assets_pending",
+      "candidate_mapping_requires_review": null
+    },
+    {
+      "locale": "hi-IN",
+      "documented_console_label": null,
+      "status": "no_exact_console_entry_verified",
+      "candidate_mapping_requires_review": null
+    },
+    {
+      "locale": "ar",
+      "documented_console_label": null,
+      "status": "no_exact_console_entry_verified",
+      "candidate_mapping_requires_review": null
+    },
+    {
+      "locale": "tr-TR",
+      "documented_console_label": null,
+      "status": "no_exact_console_entry_verified",
+      "candidate_mapping_requires_review": null
+    },
+    {
+      "locale": "id-ID",
+      "documented_console_label": null,
+      "status": "no_exact_console_entry_verified",
+      "candidate_mapping_requires_review": null
+    }
+  ],
+  "additional_documented_listing_options": [
+    "English (India)",
+    "Spanish (Mexico)"
+  ],
+  "distribution_countries": {
+    "status": "not_selected",
+    "approved_countries": [],
+    "reason": "Requires developer-console country availability, rights, tax and privacy review; app language does not select countries."
+  },
+  "speech_recognition_locales": [
+    {
+      "locale": "en-GB",
+      "status": "runtime_service_detection_and_device_test_required"
+    },
+    {
+      "locale": "en-US",
+      "status": "runtime_service_detection_and_device_test_required"
+    },
+    {
+      "locale": "en-AU",
+      "status": "runtime_service_detection_and_device_test_required"
+    },
+    {
+      "locale": "es-ES",
+      "status": "runtime_service_detection_and_device_test_required"
+    },
+    {
+      "locale": "es-419",
+      "status": "runtime_service_detection_and_device_test_required"
+    },
+    {
+      "locale": "fr-FR",
+      "status": "runtime_service_detection_and_device_test_required"
+    },
+    {
+      "locale": "fr-CA",
+      "status": "runtime_service_detection_and_device_test_required"
+    },
+    {
+      "locale": "de-DE",
+      "status": "runtime_service_detection_and_device_test_required"
+    },
+    {
+      "locale": "it-IT",
+      "status": "runtime_service_detection_and_device_test_required"
+    },
+    {
+      "locale": "pt-BR",
+      "status": "runtime_service_detection_and_device_test_required"
+    },
+    {
+      "locale": "pt-PT",
+      "status": "runtime_service_detection_and_device_test_required"
+    },
+    {
+      "locale": "nl-NL",
+      "status": "runtime_service_detection_and_device_test_required"
+    },
+    {
+      "locale": "pl-PL",
+      "status": "runtime_service_detection_and_device_test_required"
+    },
+    {
+      "locale": "sv-SE",
+      "status": "runtime_service_detection_and_device_test_required"
+    },
+    {
+      "locale": "ja-JP",
+      "status": "runtime_service_detection_and_device_test_required"
+    },
+    {
+      "locale": "hi-IN",
+      "status": "runtime_service_detection_and_device_test_required"
+    },
+    {
+      "locale": "ar",
+      "status": "runtime_service_detection_and_device_test_required"
+    },
+    {
+      "locale": "tr-TR",
+      "status": "runtime_service_detection_and_device_test_required"
+    },
+    {
+      "locale": "id-ID",
+      "status": "runtime_service_detection_and_device_test_required"
+    }
+  ],
+  "text_to_speech_locales": [
+    {
+      "locale": "en-GB",
+      "status": "runtime_engine_language_availability_and_device_test_required"
+    },
+    {
+      "locale": "en-US",
+      "status": "runtime_engine_language_availability_and_device_test_required"
+    },
+    {
+      "locale": "en-AU",
+      "status": "runtime_engine_language_availability_and_device_test_required"
+    },
+    {
+      "locale": "es-ES",
+      "status": "runtime_engine_language_availability_and_device_test_required"
+    },
+    {
+      "locale": "es-419",
+      "status": "runtime_engine_language_availability_and_device_test_required"
+    },
+    {
+      "locale": "fr-FR",
+      "status": "runtime_engine_language_availability_and_device_test_required"
+    },
+    {
+      "locale": "fr-CA",
+      "status": "runtime_engine_language_availability_and_device_test_required"
+    },
+    {
+      "locale": "de-DE",
+      "status": "runtime_engine_language_availability_and_device_test_required"
+    },
+    {
+      "locale": "it-IT",
+      "status": "runtime_engine_language_availability_and_device_test_required"
+    },
+    {
+      "locale": "pt-BR",
+      "status": "runtime_engine_language_availability_and_device_test_required"
+    },
+    {
+      "locale": "pt-PT",
+      "status": "runtime_engine_language_availability_and_device_test_required"
+    },
+    {
+      "locale": "nl-NL",
+      "status": "runtime_engine_language_availability_and_device_test_required"
+    },
+    {
+      "locale": "pl-PL",
+      "status": "runtime_engine_language_availability_and_device_test_required"
+    },
+    {
+      "locale": "sv-SE",
+      "status": "runtime_engine_language_availability_and_device_test_required"
+    },
+    {
+      "locale": "ja-JP",
+      "status": "runtime_engine_language_availability_and_device_test_required"
+    },
+    {
+      "locale": "hi-IN",
+      "status": "runtime_engine_language_availability_and_device_test_required"
+    },
+    {
+      "locale": "ar",
+      "status": "runtime_engine_language_availability_and_device_test_required"
+    },
+    {
+      "locale": "tr-TR",
+      "status": "runtime_engine_language_availability_and_device_test_required"
+    },
+    {
+      "locale": "id-ID",
+      "status": "runtime_engine_language_availability_and_device_test_required"
+    }
+  ],
+  "sources": [
+    "https://www.developer.amazon.com/docs/app-submission/distribute-your-app-internationally.html"
+  ]
+}

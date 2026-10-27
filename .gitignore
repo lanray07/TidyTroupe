@@ -1,0 +1,13 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+*.jks
+*.keystore
+.env
+tools/localisation/cache/
+captures/
+__pycache__/
+*.pyc
+server/.venv/
+deliverables/

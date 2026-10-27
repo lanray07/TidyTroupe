@@ -1,0 +1,881 @@
+# TIDYTROUPE — ULTIMATE CODEX MASTER BUILD PROMPT
+## Premium Family Chore Planner, Kids Rewards & Household Routine Manager
+### Amazon Appstore | Fire Tablets | Android | Voice-Enabled | Worldwide Localisation | SEO + AI Search
+
+---
+
+# 1. ROLE AND PRIMARY OBJECTIVE
+
+Act as an autonomous team of senior Android engineers, product designers, children's UX specialists, accessibility engineers, voice interaction developers, localisation specialists, privacy engineers, Amazon Appstore monetisation experts, ASO strategists, and QA engineers.
+
+Your mission is to design, implement, test, optimise, and package a complete premium Android application called:
+
+**TidyTroupe – Family Chore & Reward Planner**
+
+**Tagline:** Team up. Tidy up. Celebrate together.
+
+Primary platform: Amazon Fire tablets through the Amazon Appstore.
+
+Secondary platform: Compatible Android phones and tablets.
+
+Target users:
+
+- Families with children
+- Parents and carers
+- Couples sharing household responsibilities
+- Households using a shared Fire tablet
+- Families teaching age-appropriate responsibilities
+- Adults managing recurring household routines
+
+Core promise:
+
+**"Make household teamwork simple, rewarding and fun."**
+
+Build a real, production-quality application.
+
+Do not stop at planning, wireframes, mockups, architectural diagrams, or sample screens.
+
+Implement working source code, run available builds and tests, fix defects, create original assets, and prepare Amazon Appstore submission deliverables.
+
+Preserve existing repository work.
+
+Treat the product name as provisional until final trademark and Appstore clearance is completed.
+
+# 2. PRODUCT DIFFERENTIATION
+
+TidyTroupe must feel like a family teamwork application, not a generic to-do list.
+
+Combine:
+
+1. Shared household chore management.
+2. Parent-assigned responsibilities.
+3. Child-friendly task completion.
+4. Family routines and recurring schedules.
+5. Positive, non-manipulative rewards.
+6. Voice-assisted task management.
+7. Offline functionality.
+8. Private family progress tracking.
+
+Avoid public leaderboards, social feeds, open chat, advertising to children, loot boxes, and pressure-based engagement mechanics.
+
+# 3. TECHNOLOGY AND ARCHITECTURE
+
+Use:
+
+- Kotlin
+- Jetpack Compose
+- Material 3 with a custom premium design system
+- MVVM and Clean Architecture
+- Room database
+- DataStore preferences
+- Kotlin Coroutines and Flow
+- Hilt where appropriate
+- WorkManager where appropriate
+- Android SpeechRecognizer
+- Android TextToSpeech
+- Android notification APIs
+- Amazon-compatible In-App Purchasing
+- Gradle Kotlin DSL
+- JUnit and Android UI tests
+
+Avoid mandatory Google Play Services.
+
+Separate modules for:
+
+- Household management
+- Family profiles
+- Chore scheduling
+- Task assignments
+- Rewards
+- Voice interactions
+- Progress analytics
+- Parental controls
+- Localisation
+- Premium billing
+- Data export and backup
+
+Use offline-first architecture.
+
+Do not require account registration for core functionality.
+
+# 4. PREMIUM VISUAL DESIGN
+
+Create an original, modern, premium family-friendly visual identity.
+
+Brand personality:
+
+- Warm
+- Cheerful
+- Organised
+- Trustworthy
+- Inclusive
+- Calm
+- Playful without feeling childish
+
+Suggested palette:
+
+- Deep teal: #246A73
+- Soft cream: #FAF7F0
+- Coral: #E68A72
+- Sage green: #8EB69B
+- Charcoal: #293236
+
+Use accessible variations as needed.
+
+Design requirements:
+
+- Beautiful dashboard cards
+- Original illustrated avatars
+- Premium chore icons
+- Rounded controls
+- Spacious tablet layouts
+- Smooth, restrained animations
+- Friendly typography
+- High-contrast task status indicators
+- Light and dark themes
+- Reduced-motion support
+
+Optimise for 7–10-inch Fire tablets.
+
+Support portrait and landscape layouts.
+
+Use adaptive tablet navigation rather than stretched phone screens.
+
+Make primary touch targets at least 48dp.
+
+# 5. ORIGINAL PREMIUM ASSETS
+
+Create:
+
+- Master app icon
+- Adaptive icon foreground and background
+- Monochrome icon
+- Splash-screen artwork
+- Onboarding illustrations
+- Household avatars
+- Child-friendly profile avatars
+- Chore category illustrations
+- Reward badges
+- Achievement stickers
+- Empty-state illustrations
+- Voice assistant graphics
+- Premium upgrade artwork
+- Screenshot marketing templates
+- Promotional banners
+
+## Icon concept
+
+Create a distinctive group of three colourful household shapes or friendly characters arranged around a subtle checkmark.
+
+Avoid generic clipboard icons.
+
+All assets must be original or appropriately licensed.
+
+Do not claim assets are complete unless real files exist.
+
+# 6. ONBOARDING AND HOUSEHOLD SETUP
+
+Create a short onboarding flow.
+
+Users can:
+
+1. Choose their language.
+2. Create a household.
+3. Set up a parent or adult administrator.
+4. Add family members.
+5. Select default chore categories.
+6. Configure optional reminders.
+7. Create the first chore.
+8. Review privacy settings.
+
+No account required.
+
+Allow onboarding to be skipped where practical.
+
+Do not request unnecessary permissions.
+
+# 7. FAMILY PROFILES
+
+Support multiple household profiles.
+
+Each profile includes:
+
+- Nickname
+- Avatar
+- Adult or child role
+- Assigned chores
+- Completion history
+- Reward balance
+- Optional personal preferences
+
+Allow adults to manage profiles.
+
+Child profiles must not require real names, birth dates, email addresses, or photos.
+
+Use local storage by default.
+
+Provide a suitable parental gate for protected actions.
+
+# 8. FAMILY DASHBOARD
+
+Create a premium dashboard showing:
+
+- Today's chores
+- Upcoming tasks
+- Completed chores
+- Family progress
+- Individual assignments
+- Reward milestones
+- Weekly household overview
+- Quick-add chore
+- Voice shortcut
+
+Use real stored data.
+
+Do not show fabricated progress.
+
+# 9. CHORE MANAGEMENT ENGINE
+
+Implement:
+
+- Create chores
+- Edit chores
+- Duplicate chores
+- Delete chores
+- Assign chores
+- Reassign chores
+- Mark complete
+- Undo completion
+- Pause chores
+- Archive chores
+- Recurring schedules
+- Due dates
+- Optional reminders
+- Task notes
+- Difficulty or effort level
+- Optional reward points
+
+Default chore categories:
+
+- Bedroom
+- Kitchen
+- Bathroom
+- Laundry
+- Living Room
+- Garden
+- Pets
+- School Preparation
+- General Household
+
+Allow custom categories.
+
+Support:
+
+- Daily chores
+- Weekly chores
+- Monthly chores
+- Selected weekdays
+- Custom recurrence
+
+Use reliable recurrence and timezone handling.
+
+# 10. CHILD-FRIENDLY TASK EXPERIENCE
+
+Create a simplified child interface.
+
+Show:
+
+- Today's tasks
+- Large task cards
+- Clear completion buttons
+- Friendly illustrations
+- Optional spoken instructions
+- Earned stars
+- Reward progress
+- Encouraging feedback
+
+Avoid:
+
+- Public comparisons
+- Punishment for missed chores
+- Manipulative streaks
+- Scarcity countdowns
+- Gambling-style rewards
+- Child-directed purchase prompts
+
+Parents should be able to require approval before a chore is marked as officially completed.
+
+# 11. REWARD SYSTEM
+
+Implement a positive, parent-controlled reward system.
+
+Support:
+
+- Stars
+- Points
+- Achievement badges
+- Avatar accessories
+- Household milestones
+- Parent-defined rewards
+
+Example:
+
+Complete five assigned chores to unlock a new avatar accessory.
+
+Allow parents to configure:
+
+- Points per chore
+- Approval requirements
+- Reward thresholds
+- Available rewards
+- Whether rewards are enabled
+
+No loot boxes.
+
+No paid advantages.
+
+No randomised reward purchases.
+
+Do not create a system that pressures children into excessive task completion.
+
+# 12. FAMILY ROUTINES
+
+Create reusable household routines.
+
+Examples:
+
+- Morning Preparation
+- After-School Routine
+- Evening Tidy-Up
+- Weekend Cleaning
+- Laundry Day
+- Pet Care
+- Holiday Preparation
+
+Each routine includes ordered tasks, assigned members, optional reminders, and progress tracking.
+
+Allow routine duplication and templates.
+
+# 13. PREMIUM VOICE INTERACTION ENGINE
+
+Voice interaction is a mandatory feature.
+
+Implement useful voice commands for adults and optional parent-enabled voice commands for children.
+
+## Adult voice commands
+
+Support:
+
+- "Add a new chore."
+- "Assign kitchen cleaning to Alex."
+- "What chores are due today?"
+- "Mark laundry as complete."
+- "Show this week's family progress."
+- "Remind me to take out the bins tomorrow."
+- "Move vacuuming to Saturday."
+- "Read my household checklist."
+
+## Child-friendly commands
+
+Where parent-enabled:
+
+- "What are my chores?"
+- "Read my next task."
+- "Mark my task complete."
+- "How many stars have I earned?"
+- "Repeat that."
+- "Go back."
+
+## Spoken feedback
+
+Provide responses such as:
+
+"Alex has three chores today."
+
+"Your laundry task is complete."
+
+"Great teamwork! You've finished your morning routine."
+
+## Voice implementation requirements
+
+- Android SpeechRecognizer capability detection
+- Android TextToSpeech
+- Push-to-talk activation
+- Microphone permission handling
+- Visible listening state
+- Speech transcription preview
+- Structured command parsing
+- Locale-aware command dictionaries
+- Confirmation for sensitive actions
+- Recognition error handling
+- Full touch and text alternatives
+
+Do not implement always-listening microphones.
+
+Do not assume Fire tablets include suitable speech recognition services.
+
+Do not claim offline voice recognition unless implemented and verified.
+
+For child profiles:
+
+- Disable microphone input by default.
+- Require parent activation.
+- Avoid open-ended AI conversations.
+- Do not store raw audio.
+- Do not transmit children's speech to external services without appropriate legal and privacy review.
+
+# 14. REMINDERS AND NOTIFICATIONS
+
+Implement:
+
+- Chore reminders
+- Routine reminders
+- Due-date reminders
+- Optional family summaries
+- Quiet hours
+- Snooze where supported
+- Notification opt-in
+
+Respect Android and Fire OS scheduling limitations.
+
+Avoid excessive notifications.
+
+Do not use guilt-based messages.
+
+# 15. PARENTAL CONTROLS
+
+Create a protected parent dashboard.
+
+Parents can:
+
+- Add and remove profiles
+- Assign chores
+- Approve completion
+- Configure rewards
+- Set task difficulty
+- Manage reminders
+- Enable or disable voice input
+- Review progress
+- Manage Premium purchases
+- Export or delete household data
+
+Use an appropriate parental gate.
+
+Keep purchases and external links inaccessible from child screens.
+
+Do not rely solely on a decorative PIN screen without secure access-control logic.
+
+# 16. FAMILY PROGRESS AND ANALYTICS
+
+Implement:
+
+- Tasks completed
+- Tasks pending
+- Weekly completion trends
+- Household participation
+- Individual progress
+- Routine completion
+- Reward milestones
+- Activity history
+
+Use real data.
+
+Avoid publicly ranking family members.
+
+Provide accessible chart summaries.
+
+Do not infer personality, discipline, or responsibility from task completion data.
+
+# 17. OFFLINE-FIRST DATA AND PRIVACY
+
+Core functionality must work offline.
+
+Store locally:
+
+- Household settings
+- Profiles
+- Chores
+- Routines
+- Rewards
+- Completion history
+- Progress statistics
+
+No account required.
+
+No third-party advertising SDKs.
+
+No unnecessary analytics.
+
+No public profiles.
+
+No social feeds.
+
+No child-facing external links.
+
+Provide:
+
+- Data export
+- Data import
+- Delete household data
+- Delete individual profiles
+- Optional encrypted backup
+
+Cloud sync must be opt-in and implemented only when an approved provider and secure authentication flow are configured.
+
+Do not claim cross-device syncing is available until implemented and tested.
+
+# 18. PREMIUM MONETISATION
+
+Use a family-friendly freemium model.
+
+## Free tier
+
+- One household
+- Up to three profiles
+- Basic chore assignments
+- Recurring chores
+- Basic rewards
+- Essential reminders
+- Basic progress tracking
+
+## TidyTroupe Premium
+
+Proposed test price: £3.99 one-time purchase.
+
+Premium includes:
+
+- Unlimited family profiles
+- Advanced routine templates
+- Custom rewards
+- Detailed household statistics
+- Expanded voice commands
+- Additional avatar customisation
+- Advanced reminders
+- Data export
+- Encrypted backup where implemented
+
+Use Amazon-compatible In-App Purchasing.
+
+Implement:
+
+- Store-provided prices
+- Purchase flow
+- Entitlement verification
+- Restore purchases
+- Offline entitlement persistence
+- Error handling
+
+Do not use Google Play Billing in the Amazon build.
+
+Do not simulate successful real purchases.
+
+All purchasing must be protected from child access.
+
+No subscriptions in the initial release unless explicitly approved.
+
+# 19. MANDATORY WORLDWIDE LOCALISATION
+
+**Localisation is a non-negotiable release requirement.**
+
+Build TidyTroupe as a multilingual application from the beginning.
+
+Localise:
+
+- Complete app interface
+- Onboarding
+- Chore categories
+- Routine templates
+- Reward descriptions
+- Parent dashboard
+- Child dashboard
+- Notifications
+- Voice prompts
+- Voice command dictionaries
+- Paywall
+- Settings
+- Accessibility labels
+- Error messages
+- Store metadata
+- Marketing screenshots
+- Website content
+
+## Initial target locales
+
+- English UK — en-GB
+- English US — en-US
+- English Australia — en-AU
+- Spanish Spain — es-ES
+- Spanish Latin America — es-419
+- French France — fr-FR
+- French Canada — fr-CA
+- German — de-DE
+- Italian — it-IT
+- Portuguese Brazil — pt-BR
+- Portuguese Portugal — pt-PT
+- Dutch — nl-NL
+- Polish — pl-PL
+- Swedish — sv-SE
+- Japanese — ja-JP
+- Hindi — hi-IN
+- Arabic — ar
+- Turkish — tr-TR
+- Indonesian — id-ID
+
+Verify current Amazon Appstore marketplace and listing-language requirements using official documentation.
+
+Maintain separate matrices for:
+
+1. Supported app languages.
+2. Supported store-listing languages.
+3. Distribution countries.
+4. Supported speech recognition locales.
+5. Supported text-to-speech locales.
+
+Do not assume these are identical.
+
+# 20. AUTOMATED LOCALISATION PIPELINE
+
+Create an executable translation pipeline.
+
+Use a configurable translation provider such as DeepL or another approved API.
+
+Implement:
+
+- Source-string extraction
+- Automatic translation
+- Translation caching
+- Terminology glossary
+- Placeholder protection
+- Pluralisation validation
+- Missing-string detection
+- Android resource generation
+- Translation quality reports
+- Right-to-left layout support
+- Human review workflow
+- Screenshot localisation
+- Store metadata localisation
+
+Never embed translation API keys in the APK.
+
+If translation credentials are unavailable, create the pipeline and mark translations as pending.
+
+Do not claim machine-translated content is human-reviewed.
+
+# 21. PREMIUM SEO-KEYWORDED AMAZON SCREENSHOTS
+
+Generate eight premium screenshot compositions for every approved store-listing locale.
+
+All screenshots must show the actual localised application.
+
+## Screenshot 1
+
+**Family Chore Planner**
+
+"Organise household tasks together."
+
+Show the family dashboard.
+
+## Screenshot 2
+
+**Kids Chore Chart & Rewards**
+
+"Make daily responsibilities fun and rewarding."
+
+Show child task cards and earned stars.
+
+## Screenshot 3
+
+**Daily & Weekly Chore Schedule**
+
+"Keep family routines organised."
+
+Show the weekly calendar.
+
+## Screenshot 4
+
+**Parent-Controlled Rewards**
+
+"Celebrate effort with rewards you manage."
+
+Show reward settings.
+
+## Screenshot 5
+
+**Household Routine Planner**
+
+"Create simple routines for busy families."
+
+Show routine templates.
+
+## Screenshot 6
+
+**Voice-Powered Chore Manager**
+
+"Add tasks and check progress using supported voice commands."
+
+Show the voice interface.
+
+## Screenshot 7
+
+**Offline Family Chore App**
+
+"Manage chores without internet."
+
+Show a working offline dashboard.
+
+## Screenshot 8
+
+**Family Progress Tracker**
+
+"See completed tasks and weekly progress."
+
+Show household analytics.
+
+## Screenshot production requirements
+
+- Capture real implemented app screens.
+- Use deterministic demo data.
+- Generate phone and Fire tablet variants.
+- Verify current Amazon screenshot dimensions.
+- Translate marketing headlines.
+- Translate supporting captions.
+- Capture the app in each target locale.
+- Use culturally appropriate names and examples.
+- Validate typography and cropping.
+- Avoid keyword stuffing.
+- Avoid fabricated ratings and reviews.
+- Export production images.
+- Include editable templates.
+- Generate a screenshot manifest.
+
+Never place translated headlines over English-language UI.
+
+Do not claim screenshots are complete unless the actual files exist.
+
+# 22. AMAZON APPSTORE SEO / ASO
+
+Proposed title:
+
+**TidyTroupe – Family Chore & Reward Planner**
+
+Validate title length and store requirements.
+
+Primary keywords:
+
+- Family chore planner
+- Kids chore chart
+- Chore tracker
+- Household task manager
+- Family routine planner
+- Reward chart for kids
+
+Secondary keywords:
+
+- Daily chores
+- Weekly cleaning schedule
+- Kids responsibility chart
+- Household checklist
+- Family organisation
+- Chore reminders
+- Parent-controlled rewards
+- Offline chore planner
+
+Generate:
+
+- SEO-optimised title recommendations
+- Concise product summary
+- Full product description
+- Feature highlights
+- Localised keyword research
+- Localised listing copy
+- Screenshot captions
+- Release notes
+- Privacy policy draft
+- Support documentation
+
+Use natural keywords.
+
+Do not invent Amazon metadata fields.
+
+# 23. AI SEARCH OPTIMISATION
+
+Create a lightweight, crawlable TidyTroupe marketing website.
+
+Pages:
+
+- Home
+- Features
+- Family Chore Planner
+- Kids Chore Charts
+- Parent-Controlled Rewards
+- Household Routines
+- Voice Features
+- Fire Tablet Compatibility
+- Pricing
+- FAQ
+- Privacy
+- Support
+
+Target questions such as:
+
+- What is a good chore chart app for kids?
+- How can families organise household chores?
+- Can children track chores on a Fire tablet?
+- Are there offline chore planner apps?
+- How can parents create a reward chart?
+- How do I manage recurring family chores?
+- Can I use voice commands to manage chores?
+
+Implement:
+
+- Crawlable HTML
+- Descriptive page titles
+- Clear headings
+- Canonical URLs
+- XML sitemap
+- Robots.txt
+- Appropriate hreflang annotations
+- Accurate product facts
+- SoftwareApplication structured data
+- FAQ content where useful
+- Direct Amazon listing link once available
+
+Do not invent testimonials, ratings, awards, or download figures.
+
+AI search optimisation does not guarantee rankings or recommendations.
+
+# 24. PRIVACY AND CHILD SAFETY
+
+Assess applicable privacy requirements, including:
+
+- UK GDPR
+- UK Age Appropriate Design Code
+- GDPR where applicable
+- COPPA where applicable
+- Amazon Appstore policies
+
+Implement high-privacy defaults.
+
+Collect the minimum data necessary.
+
+Avoid collecting precise location, contacts, or unnecessary personal information.
+
+Provide clear parent-facing privacy controls.
+
+Do not upload child profiles or household activity for analytics without an appropriate legal basis and transparent consent mechanism where required.
+
+# 25. CONCRETE CODEX EXECUTION WORKFLOW
+
+Do not stop at planning.
+
+Execute each phase.
+
+## Phase 0 — Inspect and initialise
+
+Inspect repository, Git status, Android SDK, Java, Gradle, and available devices.
+
+Initialise the project if necessary.
+
+Establish a successful baseline build.
+
+## Phase 
